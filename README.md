@@ -1,2 +1,2 @@
 # Datasets
-## Working on datasets, projects from data camp
+## Working on datasets and projects from data camp
